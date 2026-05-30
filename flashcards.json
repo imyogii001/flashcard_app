@@ -1,0 +1,17 @@
+[
+    {
+        "question": "what is capital of france?",
+        "answer": "parish",
+        "learned": true
+    },
+    {
+        "question": "what is 2+2",
+        "answer": "4",
+        "learned": true
+    },
+    {
+        "question": "what is capital of india",
+        "answer": "New delhi",
+        "learned": false
+    }
+]
